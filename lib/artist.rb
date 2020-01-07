@@ -3,4 +3,4 @@ class Artist
   
   @@all = [] 
   
-  def ini
+  def initia
