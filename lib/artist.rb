@@ -18,7 +18,8 @@ class Artist
     @songs 
   end 
   
-  def save
+  def save 
+    @@all
   
   
   
